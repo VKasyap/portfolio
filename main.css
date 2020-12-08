@@ -1,0 +1,34 @@
+body{
+    background-color: floralwhite;
+}
+.head{
+    background: #080882;
+}
+.head h1{
+    color: white;
+}
+.head p{
+    color: red;
+}
+.left ul{
+    list-style-type:none;
+    color: antiquewhite;
+}
+.right{
+    border-bottom: 3px solid red ;
+}
+.det table{
+    border-bottom: 3px solid red;
+}
+.cer{
+    border-bottom: 3px solid red;
+}
+.cer li,.pro li{
+    list-style-type:none;
+    color:black;
+}
+.foot{
+    background: #080882;
+    /* border:5px solid #080882; */
+    height: 25px;
+}
